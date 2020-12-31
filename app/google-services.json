@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "231608660163",
+    "project_id": "expensesapp-1751a",
+    "storage_bucket": "expensesapp-1751a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231608660163:android:966cd15af6b63ab43a3276",
+        "android_client_info": {
+          "package_name": "com.unab.tads.expensesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231608660163-pphdh6781nr11o2fn276v9dedds9049k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unab.tads.expensesapp",
+            "certificate_hash": "3633b08cd68a0ba2cac4eadd37327b0ebe57adc0"
+          }
+        },
+        {
+          "client_id": "231608660163-23h703ip8q0svhv2r0lc1s25jbmolsj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD12N9i1y15DPtDDS4BQCD3Kc9iYr_cwiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231608660163-23h703ip8q0svhv2r0lc1s25jbmolsj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

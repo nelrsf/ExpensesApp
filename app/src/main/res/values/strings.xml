@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ExpensesApp</string>
+    <string name="tv_main_title">Ingresar a Expenses App</string>
+    <string name="tv_main_email_form">E-mail</string>
+    <string name="tv_main_pass_form">Contraseña</string>
+    <string name="bt_submit">Iniciar Sesión</string>
+    <string name="bt_signin">Registrarse</string>
+    <string name="tv_register_title">Registro de Usuario</string>
+    <string name="tv_main_name_form">Nombre de usuario</string>
+    <string name="tv_main_company_form">Empresa</string>
+    <string name="tv_new_project_text">Nuevo Proyecto</string>
+    <string name="text_project_name">Proyecto:</string>
+    <string name="tv_new_spending_text">Nuevo Gasto</string>
+    <string name="tv_expenses_title">Listado de gastos</string>
+    <string name="text_category_name">Categoría</string>
+    <string name="text_invoice">Factura</string>
+    <string name="text_amount">Valor:</string>
+    <string name="text_currency">COP</string>
+    <string name="text_date">Fecha:</string>
+    <string name="text_category_spinner">Seleccione categoría</string>
+    <string name="text_description">Descripción:</string>
+    <string name="text_location">Ubicación:</string>
+    <string name="text_form_title">Crear Proyecto</string>
+    <string name="tv_main_pass_conf_form">Confirmar contraseña</string>
+    <string name="text_error_match_password">Las contraseñas no coinciden</string>
+    <string name="text_waiting">Por favor espere...</string>
+    <string name="text_error_empty_field">Hay campos requeridos sin diligenciar</string>
+    <string name="text_successful_registration">Registro exitoso</string>
+    <string name="mi_text_logout">Cerrar Sesión</string>
+    <string name="bt_new_project_text">Crear Proyecto</string>
+    <string name="text_error_invalid_date">Formato de fecha invalido</string>
+    <string name="bt_edit_project_text">Editar Proyecto</string>
+    <string name="bt_new_spending_text">Crear nuevo gasto</string>
+    <string name="bt_edit_spending_text">Editar gasto</string>
+    <string name="mi_text_picture_camera">Tomar una captura</string>
+    <string name="mi_text_picture_gallery">Seleccionar de la galeria</string>
+
+
+    <string-array name="categories_array">
+        <item>Transporte</item>
+        <item>Alimentación</item>
+        <item>Hospedaje</item>
+        <item>Otros</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mi_picture_by_camera"
+        android:title="@string/mi_text_picture_camera" />
+    <item
+        android:id="@+id/mi_picture_by_gallery"
+        android:title="@string/mi_text_picture_gallery" />
+</menu>
